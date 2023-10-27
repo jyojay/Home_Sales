@@ -49,7 +49,7 @@ Note: Google Colab has been used for this challenge
 ![image](https://github.com/jyojay/Home_Sales/assets/132628129/3ab2c960-df08-4e2c-8cb3-497d839c9417)
 
 #### Result
-- Uncached Runtime was 1.42 seconds vs Cached runtime of 0.63 seconds. **Cached runtime was shorter than the uncached runtime of the query** </br>
+-  <font color='#fa8072'>Uncached Runtime was 1.42 seconds vs Cached runtime of 0.63 seconds. **Cached runtime was shorter than the uncached runtime of the query** </br>
 ![image](https://github.com/jyojay/Home_Sales/assets/132628129/f70fb154-959c-4b34-989b-1ce7becdebeb)
 
 ### Partitioning by the "date_built" field on the formatted parquet home sales data.
@@ -65,7 +65,7 @@ Note: Google Colab has been used for this challenge
 ![image](https://github.com/jyojay/Home_Sales/assets/132628129/cfcff0aa-2d9a-4cc6-a6f9-526ae16b493f)
 
 #### Result
-- Parquet Runtime was 0.96 seconds vs uncached runtime of 1.42 seconds. Parquet runtime was lower than uncached runtime. </br>
+-  <font color='#fa8072'> Parquet Runtime was 0.96 seconds vs uncached runtime of 1.42 seconds. Parquet runtime was lower than uncached runtime. </br>
 ![image](https://github.com/jyojay/Home_Sales/assets/132628129/c2c3027a-c8b7-4510-8575-749f07f978f9)
 
 ### Uncaching the home_sales temporary table.
