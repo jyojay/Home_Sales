@@ -1,7 +1,7 @@
 # Home_Sales
 **Big Data - Spark SQL challenge**
 In this challenge, I have used SparkSQL to determine key metrics about home sales data. Then I have used Spark to create temporary views, partition the data, cache and uncache a temporary table, and verified that the table has been uncached.
-Note: Google Colab has been used for this challenge
+**Note: Google Colab has been used for this challenge**
 
 ## Repository Folders and Contents
 - Resources:
